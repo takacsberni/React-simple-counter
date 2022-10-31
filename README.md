@@ -1,6 +1,6 @@
-# A basic counter mini project in React
+# Counter mini project in React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The implementation of the basic counter application in React
 
 ## Available Scripts
 
